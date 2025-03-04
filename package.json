@@ -1,5 +1,5 @@
 {
-  "name": "cors-proxy",
+  "name": "cors-proxy-dayat",
   "version": "1.0.0",
   "description": "Custom CORS Proxy",
   "main": "index.js",
